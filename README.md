@@ -34,12 +34,12 @@ It uses <strong>localStorage</strong> to persist data even after the browser is 
 
 ## 📥 Install Dependencies
 
-npm install
+- <b>npm install</b>
 
 
 ##    Start the Application
 
-npm start
+- <b>npm start</b>
 
 App will run on: http://localhost:3000
 
